@@ -1,6 +1,6 @@
 # chat-app
 
-FullStack chat application using React.js, Node.js, express, MongoDB and other npm packages
+FullStack chat application with real time updates using React.js, Node.js, express, MongoDB and other npm packages
 
 Chat window: 
 
